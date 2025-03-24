@@ -36,7 +36,7 @@ const testimonials = [
       "Meus gatos nunca gostaram de sair de casa, mas o atendimento nesse petshop fez toda a diferença. A equipe é muito paciente e cuidadosa, e o serviço de banho especializado para felinos foi maravilhoso! Agora sei onde confiar o cuidado deles.",
     author: "Camila fernandes",
     role: "Tutora da Mel e do Max",
-    image: tutor2,
+    image: tutor3,
   },
 ];
 
