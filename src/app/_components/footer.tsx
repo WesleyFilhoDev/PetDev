@@ -60,7 +60,7 @@ export function Footer() {
             <a
               target="_blank"
               href={
-                "https://wa.me/55889949472226?text=Olá vim pelo site e gostaria de mais informações sbore!"
+                "https://wa.me/5588994947226?text=Olá vim pelo site e gostaria de mais informações sbore!"
               }
               className="bg-green-500 px-4 py-2 rounded-md"
             >
